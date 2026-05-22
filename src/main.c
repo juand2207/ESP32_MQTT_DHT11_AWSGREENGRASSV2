@@ -15,7 +15,6 @@
 #include "DHT22.h"
 #include "wifi.h"
 #include "mqtt_demo_mutual_auth.h"
-//hola
 static const char *TAG = "MQTT_EXAMPLE";
 // AC Dimmer configuration
 #define DIMMER_ZERO_CROSS_PIN   GPIO_NUM_23    // Zero crossing detection pin
